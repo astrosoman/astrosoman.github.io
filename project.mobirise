@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "astrosoman.in",
-    "currentPage": "home.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1923,7 +1923,7 @@
         }
       ]
     },
-    "home.html": {
+    "Index.html": {
       "settings": {
         "main": true,
         "title": "Home",
